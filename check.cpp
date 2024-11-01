@@ -12,10 +12,11 @@ int main() {
             cout << "Iteration " << count << ": Outer loop (i = " << i << "), Inner loop (j = " << j << ")" << endl;
         }
     }
-    cout << "Total iterations: " << count << endl;
-    
+    cout << "Total iterations: " << count << endl; 
     for (int i=0;i<10;i++){
-        cout<<"hello"<<endl;
+        cout<<"hello world how the world is going?"<<endl;
+        cout<<"what is your name"<<endl;
+
     }
     return 0;
 }
